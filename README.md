@@ -6,4 +6,4 @@ Proyecto final realizado en curso de infraestructura IT UTN y Bco Credicoop.
 ## ▸ [Presentación](https://github.com/HernanTx/tp-proyecto-bco/blob/main/docs/TP-Credicoop-PPT-comp.pdf)
 
 ### Esquema del proyecto
-![Esquema](../docs/tpc-diagrama.png)
+![Esquema](./docs/tpc-diagrama.png)
